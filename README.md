@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Jougan-0's GitHub | Stats](https://stats.quine.sh/Jougan-0/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Jougan-0)
+[![Jougan-0's GitHub | Languages Over Time](https://stats.quine.sh/Jougan-0/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Jougan-0)
+[![Jougan-0's GitHub | Topics Over Time](https://stats.quine.sh/Jougan-0/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Jougan-0)
 <!--
 **Jougan-0/Jougan-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
