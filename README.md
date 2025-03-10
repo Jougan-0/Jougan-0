@@ -11,10 +11,10 @@ I'm a passionate software engineer specializing in cloud-native technologies, di
 
 ### 💼 Professional Experience
 
-**Linux Foundation Mentorship @ CNCF (Sept 2024 - Nov 2024)**
+**Linux Foundation Mentorship @ [Meshery](https://github.com/meshery) (Sept 2024 - Nov 2024)**
 - Enhanced security and access control, optimized memory usage by 66%, and streamlined authentication processes.
 
-**Google Summer of Code @ CNCF (May 2024 - Sept 2024)**
+**Google Summer of Code @ [CNCF](https://github.com/CNCF) (May 2024 - Sept 2024)**
 - Developed automation tools, improved logging systems, and created efficient data pipelines, significantly impacting team productivity and system efficiency.
 
 ### 🛠 Projects
