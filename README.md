@@ -2,9 +2,13 @@
 
 ### 📍 About Me
 I'm a passionate software engineer specializing in cloud-native technologies, distributed systems, and backend development. I've actively contributed to significant open-source projects through CNCF's Linux Foundation Mentorship and Google Summer of Code.
-![Shlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jougan-0&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Jougan-0&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=Jougan-0&color=blueviolet)
+### This Year (2025)
+![Shlok's GitHub stats 2025](https://github-readme-stats.vercel.app/api?username=Jougan-0&show_icons=true&theme=tokyonight&year=2025)
+
+### Last Year (2024)
+![Shlok's GitHub stats 2024](https://github-readme-stats.vercel.app/api?username=Jougan-0&show_icons=true&theme=tokyonight&year=2024)
+
+
 ### 🚀 Tech Stack
 - **Languages:** Go, JavaScript
 - **Frameworks & Libraries:** Next.js, Meshkit, Kafka, Prometheus
