@@ -2,12 +2,6 @@
 
 ### 📍 About Me
 I'm a passionate software engineer specializing in cloud-native technologies, distributed systems, and backend development. I've actively contributed to significant open-source projects through CNCF's Linux Foundation Mentorship and Google Summer of Code.
-### This Year (2025)
-![Shlok's GitHub stats 2025](https://github-readme-stats.vercel.app/api?username=Jougan-0&show_icons=true&theme=tokyonight&year=2025)
-
-### Last Year (2024)
-![Shlok's GitHub stats 2024](https://github-readme-stats.vercel.app/api?username=Jougan-0&show_icons=true&theme=tokyonight&year=2024)
-
 
 ### 🚀 Tech Stack
 - **Languages:** Go, JavaScript
@@ -33,4 +27,4 @@ I'm a passionate software engineer specializing in cloud-native technologies, di
 - [Twitter](https://twitter.com/Jougan0)
 - [Discord Community]([https://discord.gg/Xf3S6qfR](https://discord.gg/3XyS6k4hWg))
 
-Let's collaborate and build something amazing!
+![Shlok's GitHub stats 2025](https://github-readme-stats.vercel.app/api?username=Jougan-0&show_icons=true&theme=tokyonight&year=2025)
