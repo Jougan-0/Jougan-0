@@ -27,4 +27,3 @@ I'm a passionate software engineer specializing in cloud-native technologies, di
 - [Twitter](https://twitter.com/Jougan0)
 - [Discord Community]([https://discord.gg/Xf3S6qfR](https://discord.gg/3XyS6k4hWg))
 
-![Shlok's GitHub stats 2025](https://github-readme-stats.vercel.app/api?username=Jougan-0&show_icons=true&theme=tokyonight&year=2025)
