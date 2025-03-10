@@ -25,5 +25,5 @@ I'm a passionate software engineer specializing in cloud-native technologies, di
 ### 🌐 Connect With Me
 - [LinkedIn](https://linkedin.com/in/shlok08)
 - [Twitter](https://twitter.com/Jougan0)
-- [Discord Community]([https://discord.gg/Xf3S6qfR](https://discord.gg/3XyS6k4hWg))
+- [Discord Community](https://discord.gg/3XyS6k4hWg)
 
