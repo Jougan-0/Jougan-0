@@ -5,7 +5,7 @@ I'm a passionate software engineer specializing in cloud-native technologies, di
 
 ### 🚀 Tech Stack
 - **Languages:** Go, JavaScript
-- **Frameworks & Libraries:** Next.js, Meshkit, Kafka, Prometheus
+- **Frameworks & Libraries:** Next.js, Kafka, Prometheus, OpenAPI Schema
 - **Tools & Platforms:** Docker, Kubernetes, AWS EC2, Helm, Redis, PostgreSQL, Elasticsearch
 - **Practices:** CI/CD, GitHub Actions, Open Policy Agent (OPA), JWT
 
